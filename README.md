@@ -6,7 +6,7 @@ As of now I am working on Data Structures, algorithms, and my own personal proje
 
 <img src="http://31.media.tumblr.com/f970b5c464bfbc83f150a1727e96ba87/tumblr_mgikkqUdqC1s2mpexo1_r1_500.gif">
   
-#### My favorite project right now is [PokeWar](https://github.com/bell-peppers/PokeWar) - an online multiplar 3v3 pokemon game built using React and Firebase
+#### My favorite project right now is [PokeWar](https://github.com/bell-peppers/PokeWar) - an online multiplayer 3v3 pokemon game built using React and Firebase
 
 #### **My Skills**
 
