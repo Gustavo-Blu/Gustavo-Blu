@@ -1,6 +1,6 @@
 ### Hi there and Welcome!!!👋
 
-I am Gustavo Allen, a fullstack software engineer and Game Developer in my free time. T love coding, it offers me a way to make things that benefit not only myself but the world around me. I graduated from Fullstack Academy in september 2021 and became a Teaching Fellow there, it's great to help students achieve their own goals the way I tried hard to achieve mine.
+I am Gustavo Allen, a fullstack software engineer and Game Developer in my free time. I love coding, it offers me a way to make things that benefit not only myself but the world around me. I graduated from Fullstack Academy in september 2021 and became a Teaching Fellow there, it's great to help students achieve their own goals the way I tried hard to achieve mine.
 
 As of now I am working on Data Structures, algorithms, and my own personal projects to flesh out my skills
 
